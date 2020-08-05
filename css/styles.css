@@ -1,7 +1,10 @@
 .sidebar {
+  margin: 12px;
   width: 30%;
   float: left;
-  background-color: dimgray;
+  border: 10px solid red;
+  background-color: gray;
+
 }
 
 .main {
