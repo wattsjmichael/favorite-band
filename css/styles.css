@@ -6,8 +6,11 @@
 
 .main {
   font-size: x-large;
+  float: center;
 }
 
-.img {
+img {
   float: center;
+  height: 200px;
+  width: 400px;
 }
